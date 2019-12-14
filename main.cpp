@@ -6,9 +6,6 @@
 
 using namespace std;
 
-// use number generator from assignment 1 to create a test input file
-// make note of memory usage and cpu usage for each algorithm (put in report) (use task manager)
-
 int main(int c, char** argv) {
   Sorting sorter;
   ifstream filein;
